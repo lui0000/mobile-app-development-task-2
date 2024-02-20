@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mobile-app-development-task-2</string>
+    <string name="title">Meine Anwendung</string>
+    <string name="hello_world"><span lang="ru-RU">Hallo Welt!</span></string>
+</resources>
